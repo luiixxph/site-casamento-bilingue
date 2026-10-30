@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//casamento-demo//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:casamento-demo-20280311@casamento-clara-theo.pages.dev
+DTSTAMP:20261029T180000Z
+DTSTART:20280311T183000Z
+DTEND:20280312T030000Z
+SUMMARY:Casamento Clara & Theo (demo)
+LOCATION:Recanto da Maré\, Ribeirão da Ilha\, Florianópolis - SC
+DESCRIPTION:Evento fictício de demonstração
+END:VEVENT
+END:VCALENDAR
